@@ -1,0 +1,6 @@
+{
+    "name": "credico/wkhtmltopdf-static",
+    "description": "Static compiled binaries of wkhtmltopdf",
+    "license": "GNU LESSER GENERAL PUBLIC LICENSE v3",
+	"bin": ["wkhtmltopdf-i386", "wkhtmltopdf-amd64"]
+}
